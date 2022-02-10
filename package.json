@@ -33,7 +33,7 @@
     "mongoose-lean-getters": "^0.1.2",
     "mongoose-lean-virtuals": "^0.6.2",
     "morgan": "~1.10.0",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.14.4",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
